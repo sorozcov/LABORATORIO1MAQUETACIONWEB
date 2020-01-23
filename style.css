@@ -206,6 +206,16 @@ body{
 	width: 9rem;
 }
 
+.button-line-information.button1{
+	
+	background-color: #33CA4A;
+}
+
+.button-line-information.button2{
+	
+	background-color: #02B4A6;
+}
+
 .my-books{
 	display: flex;
 	flex-direction: row;
